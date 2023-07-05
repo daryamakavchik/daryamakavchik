@@ -39,4 +39,4 @@ a Front-end Web Developer, keen on building workable and attractive apps
 
 - NodeJS'
 
-<img src="https://github-readme-stats.vercel.app/api?username=daryamakavchi&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=daryamakavchik&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
