@@ -24,6 +24,8 @@ a Front-end Web Developer, keen on building workable and attractive apps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=daryamakavchik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/daryamakavchik/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
