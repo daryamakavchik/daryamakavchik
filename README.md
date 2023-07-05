@@ -30,6 +30,8 @@ a Front-end Web Developer, keen on building workable and attractive apps
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/daryamakavchik/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://www.facebook.com/daryamakavchik/"> ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) </a>
+<a href="https://www.codewars.com/users/daryamakavchik"> ![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) </a>
 </br>
 
 💬 If you have any questions or feedback, please do not hesitate to reach out to me!
