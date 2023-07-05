@@ -37,4 +37,6 @@ a Front-end Web Developer, keen on building workable and attractive apps
 
 ## 🌱 I'm currently learning
 
-- NodeJS
+- NodeJS'
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daryamakavchik&layout=compact)
