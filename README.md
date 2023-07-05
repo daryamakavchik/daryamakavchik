@@ -6,7 +6,9 @@ Hi there, I'm Darya 👋
 I'm a Front-end Web Developer, keen on building workable and attractive apps.
 </h2> 
 
-The result always keeps me going. I love the challenge of every project and inspired by it. Can't wait to put my skills to more practice! Here's a list of what I've been working on: 
+I love the challenge of every project and inspired by it, the result always keeps me going. 
+</br>
+Can't wait to put my skills to more practice! Here's a list of what I've been working on: 
 </br>
 </br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
