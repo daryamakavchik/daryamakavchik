@@ -31,7 +31,7 @@ a Front-end Web Developer, keen on building workable and attractive apps
 
 <a href="https://www.linkedin.com/in/daryamakavchik/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 </br>
-</br>
+
 💬 If you have any questions or feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
