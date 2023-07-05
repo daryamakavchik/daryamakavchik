@@ -29,12 +29,13 @@ a Front-end Web Developer, keen on building workable and attractive apps
 
 ### 🤝 Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/daryamakavchik/)
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]<a href="https://www.linkedin.com/in/daryamakavchik/"></a>
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
+- polishing my portfolio
 - Score Saber project (custom song recommendations for Beat Saber players)
 
 ## 🌱 I'm currently learning
