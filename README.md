@@ -26,7 +26,7 @@ The result always keeps me going. I love the challenge of every project and insp
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/daryamakavchik/"><img align="left" src="" alt="Darya Makauchyk | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/daryamakavchik/"><img align="left" src="" alt="Darya Makauchyk | LinkedIn" width="21px"/>Linkedin</a>
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
