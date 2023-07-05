@@ -7,7 +7,6 @@ a Front-end Web Developer, keen on building workable and attractive apps
 </h2> 
 
 
-</br>
 ### 💼 My technical skills:
 </br>
 </br>
